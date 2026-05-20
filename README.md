@@ -7,7 +7,7 @@ Several models trained on Dice Face dataset, models are available to use:
 ### Model 2
 ### Model 3
 
-## 4. Transfer Learning - 1 (MobieNetV2 architecture)
+## Transfer Learning - 1 (MobieNetV2 architecture)
 ### Model 1
 ### Model 2
 ### Model 3
